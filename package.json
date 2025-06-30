@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "ds": "^2.0.2",
+    "global-agent": "^3.0.0",
+    "got": "^11.8.6",
+    "https-proxy-agent": "^7.0.2",
+    "jsdom": "^23.0.1",
+    "moment": "^2.30.1"
+  }
+}
